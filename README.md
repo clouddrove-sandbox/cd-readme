@@ -183,11 +183,20 @@ Our expertise spans a wide range of cutting-edge technologies and tools to deliv
 
 ---
 ## ⚙️ How We Work  
+<img width="1024" height="1024" alt="discover planning-v2" src="" />
+<img width="1024" height="1024" alt="iac-v2" src="" />
+<img width="500" height="500" alt="ci-cd gitops-v2" src="" />
+<img width="1024" height="1024" alt="security compliance-v2" src="" />
+<img width="1024" height="1024" alt="continues_monitoring-v2" src="" />
+<img width="1024" height="1024" alt="collab-v2" src="" />
+
+
+
 <table>
   <tr>
     <td width="33%">
       <p align="center">
-        <img src="Discovery & Planning" height="200" alt="CloudDrove" /> 
+        <img src="https://github.com/user-attachments/assets/4ce9fd2b-88a1-42ff-873e-8cbc7fde8f63" height="200" alt="CloudDrove" /> 
       </p>
       <h4 align="center">We begin with a deep dive to understand your workloads, risks, and goals (performance, cost, compliance).  
         Through workshops, assessments, and architecture reviews, we map out where automation, scaling, and security gaps exist.</h4>
@@ -196,7 +205,7 @@ Our expertise spans a wide range of cutting-edge technologies and tools to deliv
     </td>
     <td width="33%">
       <p align="center">
-        <img src="Infrastructure as Code" height="200" alt="CloudDrove" />
+        <img src="https://github.com/user-attachments/assets/4e141623-9232-4c30-bedb-f7431b9e8e5e" height="200" alt="CloudDrove" />
       </p>
       <h4 align="center">We build using Terraform modules + cloud-native tools. Everything’s codified, versioned, and reusable.  
         This ensures you’re not just getting one-off setups, but components you can reliably iterate on.</h4>
@@ -205,7 +214,7 @@ Our expertise spans a wide range of cutting-edge technologies and tools to deliv
     </td>
     <td width="33%">
       <p align="center">
-        <img src="CI/CD & GitOps Culture" height="160" alt="CloudDrove" />
+        <img src="https://github.com/user-attachments/assets/4987867a-b9e0-42b3-8718-714fb22b90d9" height="160" alt="CloudDrove" />
       </p>
       <h4 align="center">Fast, safe deployments stem from robust pipelines.  
         We set up CI/CD via GitHub Actions / Azure DevOps / GitLab, enforce code review, test automation, and policy-as-code.  
@@ -217,7 +226,7 @@ Our expertise spans a wide range of cutting-edge technologies and tools to deliv
   <tr>
     <td width="33%">
       <p align="center">
-        <img src="Security & Compliance by Default" height="200" alt="CloudDrove" />
+        <img src="https://github.com/user-attachments/assets/e80e3ed4-72e6-4d3f-a3fa-e3c69e7213b4" height="200" alt="CloudDrove" />
       </p>
       <h4 align="center">Security isn’t an afterthought. Zero-trust thinking, guardrails, least privilege, policy-as-code,  
         and secrets management are embedded from day one. We align with cloud-provider and regulatory best practices.</h4>
@@ -226,7 +235,7 @@ Our expertise spans a wide range of cutting-edge technologies and tools to deliv
     </td>
     <td width="33%">
       <p align="center">
-        <img src="Continuous Monitoring" height="200" alt="CloudDrove" />
+        <img src="https://github.com/user-attachments/assets/9bbafc20-b5fa-422d-baec-f914b208887e" height="200" alt="CloudDrove" />
       </p>
       <h4 align="center">Once in production, the work doesn’t stop. We put in observability (metrics, logging, tracing),  
         dig into costs, monitor SLAs/SLOs, and run performance reviews. If something is off, we iterate.</h4>
@@ -235,7 +244,7 @@ Our expertise spans a wide range of cutting-edge technologies and tools to deliv
     </td>
     <td width="33%">
       <p align="center">
-        <img src="Collaboration & Transparency" height="200" alt="CloudDrove" />
+        <img src="https://github.com/user-attachments/assets/45450cba-9e7d-4123-882b-f5a11a587861" height="200" alt="CloudDrove" />
       </p>
       <h4 align="center">We’re not a black box — we deeply collaborate. Regular demos, dashboards, shared ownership,  
         and open communication lead to trust, better solutions, and faster learning.</h4>
