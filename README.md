@@ -81,11 +81,27 @@ At **CloudDrove**, we specialize in building reliable, secure, and cost-efficien
     </td>
   </tr>
   <tr>
-    <td width="33%" colspan="3">
+    <td width="33%">
       <p align="center">
         <img src="https://github.com/user-attachments/assets/aebd7fde-fc61-4118-94cb-66a9b7d555bb" height="200" alt="CloudDrove" />
       </p>
       <h4 align="center">Control and reduce spend with rightsizing, reservations/spot, and continuous cost governance without sacrificing performance.</h4>
+      <p align="center">
+      </p>
+    </td>
+    <td width="33%">
+      <p align="center">
+        <img src="https://github.com/user-attachments/assets/447566d0-14b1-4633-9a43-f3c7ede4337c" height="200" alt="CloudDrove" />
+      </p>
+      <h4 align="center">We help you design, deploy, and manage machine learning pipelines in the cloud. From model training and deployment to monitoring and scaling, our MLOps services ensure your AI systems are reliable, efficient, and production-ready. We integrate ML workflows with CI/CD, data pipelines, and observability stacks to accelerate AI adoption securely..</h4>
+      <p align="center">
+      </p>
+    </td>
+     <td width="33%">
+      <p align="center">
+        <img src="https://github.com/user-attachments/assets/447566d0-14b1-4633-9a43-f3c7ede4337c" height="200" alt="CloudDrove" />
+      </p>
+      <h4 align="center">We design and implement robust disaster recovery strategies to protect your business against data loss, downtime, and unexpected failures. Our solutions ensure high availability, automated backups, and seamless failover across multi-cloud and hybrid environments—so your business keeps running even during disruptions.</h4>
       <p align="center">
       </p>
     </td>
