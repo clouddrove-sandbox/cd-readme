@@ -181,6 +181,69 @@ Our expertise spans a wide range of cutting-edge technologies and tools to deliv
 
 </div>
 
+---
+## ⚙️ How We Work  
+<table>
+  <tr>
+    <td width="33%">
+      <p align="center">
+        <img src="Discovery & Planning" height="200" alt="CloudDrove" /> 
+      </p>
+      <h4 align="center">We begin with a deep dive to understand your workloads, risks, and goals (performance, cost, compliance).  
+        Through workshops, assessments, and architecture reviews, we map out where automation, scaling, and security gaps exist.</h4>
+      <p align="center">
+      </p>
+    </td>
+    <td width="33%">
+      <p align="center">
+        <img src="Infrastructure as Code" height="200" alt="CloudDrove" />
+      </p>
+      <h4 align="center">We build using Terraform modules + cloud-native tools. Everything’s codified, versioned, and reusable.  
+        This ensures you’re not just getting one-off setups, but components you can reliably iterate on.</h4>
+      <p align="center">
+      </p>
+    </td>
+    <td width="33%">
+      <p align="center">
+        <img src="CI/CD & GitOps Culture" height="160" alt="CloudDrove" />
+      </p>
+      <h4 align="center">Fast, safe deployments stem from robust pipelines.  
+        We set up CI/CD via GitHub Actions / Azure DevOps / GitLab, enforce code review, test automation, and policy-as-code.  
+        Using GitOps makes infrastructure changes and app deployments auditable & reversible.</h4>
+      <p align="center">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <p align="center">
+        <img src="Security & Compliance by Default" height="200" alt="CloudDrove" />
+      </p>
+      <h4 align="center">Security isn’t an afterthought. Zero-trust thinking, guardrails, least privilege, policy-as-code,  
+        and secrets management are embedded from day one. We align with cloud-provider and regulatory best practices.</h4>
+      <p align="center">
+      </p>
+    </td>
+    <td width="33%">
+      <p align="center">
+        <img src="Continuous Monitoring" height="200" alt="CloudDrove" />
+      </p>
+      <h4 align="center">Once in production, the work doesn’t stop. We put in observability (metrics, logging, tracing),  
+        dig into costs, monitor SLAs/SLOs, and run performance reviews. If something is off, we iterate.</h4>
+      <p align="center">
+      </p>
+    </td>
+    <td width="33%">
+      <p align="center">
+        <img src="Collaboration & Transparency" height="200" alt="CloudDrove" />
+      </p>
+      <h4 align="center">We’re not a black box — we deeply collaborate. Regular demos, dashboards, shared ownership,  
+        and open communication lead to trust, better solutions, and faster learning.</h4>
+      <p align="center">
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
