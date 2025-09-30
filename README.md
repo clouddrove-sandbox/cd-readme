@@ -21,6 +21,8 @@ At **CloudDrove**, we specialize in building reliable, secure, and cost-efficien
 
 
 
+
+
 <table>
   <tr>
     <td width="33%">
@@ -79,7 +81,7 @@ At **CloudDrove**, we specialize in building reliable, secure, and cost-efficien
   <tr>
     <td width="33%" colspan="3">
       <p align="center">
-        <img src="https://github.com/user-attachments/assets/047a6083-0d1f-40e5-8e0b-7874096bc1f2"" height="200" alt="CloudDrove" />
+        <img src="https://github.com/user-attachments/assets/19e0e6f7-1453-4a8c-9ceb-eb0ecf92e6fd"" height="200" alt="CloudDrove" />
       </p>
       <h4 align="center">Control and reduce spend with rightsizing, reservations/spot, and continuous cost governance without sacrificing performance.</h4>
       <p align="center">
