@@ -23,11 +23,13 @@ At **CloudDrove**, we specialize in building reliable, secure, and cost-efficien
 
 
 
+
+
 <table>
   <tr>
     <td width="33%">
       <p align="center">
-        <img src="https://github.com/user-attachments/assets/e6be5329-744c-4c67-a9cd-0a0b242dc099" height="200" alt="CloudDrove" /> 
+        <img src="https://github.com/user-attachments/assets/46322dfe-0b2d-4bd3-9c16-dbdce7dfe006" height="200" alt="CloudDrove" /> 
       </p>
       <h4 align="center">We help you plan and execute your move to the cloud, ensuring a smooth transition with minimal disruption.
         Our strategies focus on performance, cost, and security from the start.</h4>
@@ -36,7 +38,7 @@ At **CloudDrove**, we specialize in building reliable, secure, and cost-efficien
     </td>
     <td width="33%">
       <p align="center">
-        <img src="https://github.com/user-attachments/assets/feb99dda-ea9b-4bf2-a49a-b2aff4e872bb" height="200" alt="CloudDrove" />
+        <img src="https://github.com/user-attachments/assets/e34922bc-cc32-4444-a83f-ad74536407cd" height="200" alt="CloudDrove" />
       </p>
       <h4 align="center">Automate infrastructure and workflows to increase efficiency and speed. We implement robust CI/CD, config
         management, and IaC to streamline delivery.</h4>
@@ -45,7 +47,7 @@ At **CloudDrove**, we specialize in building reliable, secure, and cost-efficien
     </td>
     <td width="33%">
       <p align="center">
-        <img src="https://github.com/user-attachments/assets/83d23cf1-7694-4174-b4f0-5fc4d82ccdc5" height="160" alt="CloudDrove" />
+        <img src="https://github.com/user-attachments/assets/ed25db78-75cb-492b-a54b-f9ae9b19939a" height="160" alt="CloudDrove" />
       </p>
       <h4 align="center">Design, deploy, and manage Kubernetes clusters to handle complex workloads with ease and scalability.</h4>
       <p align="center">
@@ -55,7 +57,7 @@ At **CloudDrove**, we specialize in building reliable, secure, and cost-efficien
   <tr>
     <td width="33%">
       <p align="center">
-        <img src="https://github.com/user-attachments/assets/bbf6f98c-dbc6-4707-b7cd-83a8c8d3ab0d" height="200" alt="CloudDrove" />
+        <img src="https://github.com/user-attachments/assets/72e1f373-18cc-4732-9d2b-4721ebcb96da" height="200" alt="CloudDrove" />
       </p>
       <h4 align="center">End-to-end monitoring, logging, and tracing for real-time visibility and faster incident resolution.</h4>
       <p align="center">
@@ -63,7 +65,7 @@ At **CloudDrove**, we specialize in building reliable, secure, and cost-efficien
     </td>
     <td width="33%">
       <p align="center">
-        <img src="https://github.com/user-attachments/assets/428e72c3-0681-402c-839e-0b6dafe45bd5" height="200" alt="CloudDrove" />
+        <img src="https://github.com/user-attachments/assets/d42aad77-a960-4930-a430-df2ae0d4a366" height="200" alt="CloudDrove" />
       </p>
       <h4 align="center">Security by design: guardrails, least privilege, policy-as-code; aligned to provider & regulatory best practices.</h4>
       <p align="center">
@@ -71,7 +73,7 @@ At **CloudDrove**, we specialize in building reliable, secure, and cost-efficien
     </td>
     <td width="33%">
       <p align="center">
-        <img src="https://github.com/user-attachments/assets/f2f28b69-64f7-4675-abf7-13d20109323b" height="200" alt="CloudDrove" />
+        <img src="https://github.com/user-attachments/assets/447566d0-14b1-4633-9a43-f3c7ede4337c" height="200" alt="CloudDrove" />
       </p>
       <h4 align="center">We handle day-to-day cloud ops—patching, scaling, reliability—so your teams focus on product.</h4>
       <p align="center">
@@ -81,7 +83,7 @@ At **CloudDrove**, we specialize in building reliable, secure, and cost-efficien
   <tr>
     <td width="33%" colspan="3">
       <p align="center">
-        <img src="https://github.com/user-attachments/assets/19e0e6f7-1453-4a8c-9ceb-eb0ecf92e6fd"" height="200" alt="CloudDrove" />
+        <img src="https://github.com/user-attachments/assets/aebd7fde-fc61-4118-94cb-66a9b7d555bb" height="200" alt="CloudDrove" />
       </p>
       <h4 align="center">Control and reduce spend with rightsizing, reservations/spot, and continuous cost governance without sacrificing performance.</h4>
       <p align="center">
