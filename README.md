@@ -20,75 +20,69 @@ We help organizations accelerate their cloud journey with laser focus on **autom
 At **CloudDrove**, we specialize in building reliable, secure, and cost-efficient cloud solutions. Here's how we can help your team:
 
 
+
 <table>
   <tr>
     <td width="33%">
       <p align="center">
-        <img src="https://github.com/user-attachments/assets/494c81b3-5508-48ea-9a5b-5d43b5cab48c" height="50" alt="CloudDrove" /> 
+        <img src="https://github.com/user-attachments/assets/e6be5329-744c-4c67-a9cd-0a0b242dc099" height="200" alt="CloudDrove" /> 
       </p>
-      <h3 align="center">Cloud Migration & Strategy</h3>
+      <h4 align="center">We help you plan and execute your move to the cloud, ensuring a smooth transition with minimal disruption.
+        Our strategies focus on performance, cost, and security from the start.</h4>
       <p align="center">
-        We help you plan and execute your move to the cloud, ensuring a smooth transition with minimal disruption.
-        Our strategies focus on performance, cost, and security from the start.
-      </p>
-    </td>
-    <td width="33%">
-      <p align="center">
-        <img src="https://github.com/user-attachments/assets/494c81b3-5508-48ea-9a5b-5d43b5cab48c" height="50" alt="CloudDrove" />
-      </p>
-      <h3 align="center">DevOps & Automation</h3>
-      <p align="center">
-        Automate infrastructure and workflows to increase efficiency and speed. We implement robust CI/CD, config
-        management, and IaC to streamline delivery.
       </p>
     </td>
     <td width="33%">
       <p align="center">
-        <img src="https://github.com/user-attachments/assets/494c81b3-5508-48ea-9a5b-5d43b5cab48c" height="50" alt="CloudDrove" />
+        <img src="https://github.com/user-attachments/assets/feb99dda-ea9b-4bf2-a49a-b2aff4e872bb" height="200" alt="CloudDrove" />
       </p>
-      <h3 align="center">Kubernetes & Containerization Tech</h3>
+      <h4 align="center">Automate infrastructure and workflows to increase efficiency and speed. We implement robust CI/CD, config
+        management, and IaC to streamline delivery.</h4>
       <p align="center">
-        Design, deploy, and manage Kubernetes clusters to handle complex workloads with ease and scalability.
+      </p>
+    </td>
+    <td width="33%">
+      <p align="center">
+        <img src="https://github.com/user-attachments/assets/83d23cf1-7694-4174-b4f0-5fc4d82ccdc5" height="160" alt="CloudDrove" />
+      </p>
+      <h4 align="center">Design, deploy, and manage Kubernetes clusters to handle complex workloads with ease and scalability.</h4>
+      <p align="center">
       </p>
     </td>
   </tr>
   <tr>
     <td width="33%">
       <p align="center">
-        <img src="https://github.com/user-attachments/assets/494c81b3-5508-48ea-9a5b-5d43b5cab48c" height="50" alt="CloudDrove" />
+        <img src="https://github.com/user-attachments/assets/bbf6f98c-dbc6-4707-b7cd-83a8c8d3ab0d" height="200" alt="CloudDrove" />
       </p>
-      <h3 align="center">Cloud Observability</h3>
+      <h4 align="center">End-to-end monitoring, logging, and tracing for real-time visibility and faster incident resolution.</h4>
       <p align="center">
-        End-to-end monitoring, logging, and tracing for real-time visibility and faster incident resolution.
-      </p>
-    </td>
-    <td width="33%">
-      <p align="center">
-        <img src="https://github.com/user-attachments/assets/494c81b3-5508-48ea-9a5b-5d43b5cab48c" height="50" alt="CloudDrove" />
-      </p>
-      <h3 align="center">Cloud Security & Compliance</h3>
-      <p align="center">
-        Security by design: guardrails, least privilege, policy-as-code; aligned to provider & regulatory best practices.
       </p>
     </td>
     <td width="33%">
       <p align="center">
-        <img src="https://github.com/user-attachments/assets/494c81b3-5508-48ea-9a5b-5d43b5cab48c" height="50" alt="CloudDrove" />
+        <img src="https://github.com/user-attachments/assets/428e72c3-0681-402c-839e-0b6dafe45bd5" height="200" alt="CloudDrove" />
       </p>
-      <h3 align="center">Cloud Operations & Managed Services</h3>
+      <h4 align="center">Security by design: guardrails, least privilege, policy-as-code; aligned to provider & regulatory best practices.</h4>
       <p align="center">
-        We handle day-to-day cloud ops—patching, scaling, reliability—so your teams focus on product.
+      </p>
+    </td>
+    <td width="33%">
+      <p align="center">
+        <img src="https://github.com/user-attachments/assets/f2f28b69-64f7-4675-abf7-13d20109323b" height="200" alt="CloudDrove" />
+      </p>
+      <h4 align="center">We handle day-to-day cloud ops—patching, scaling, reliability—so your teams focus on product.</h4>
+      <p align="center">
       </p>
     </td>
   </tr>
   <tr>
     <td width="33%" colspan="3">
       <p align="center">
-        <img src="https://github.com/user-attachments/assets/494c81b3-5508-48ea-9a5b-5d43b5cab48c" height="50" alt="CloudDrove" />
+        <img src="https://github.com/user-attachments/assets/047a6083-0d1f-40e5-8e0b-7874096bc1f2"" height="200" alt="CloudDrove" />
       </p>
-      <h3 align="center">Cloud Cost Optimization</h3>
+      <h4 align="center">Control and reduce spend with rightsizing, reservations/spot, and continuous cost governance without sacrificing performance.</h4>
       <p align="center">
-        Control and reduce spend with rightsizing, reservations/spot, and continuous cost governance without sacrificing performance.
       </p>
     </td>
   </tr>
