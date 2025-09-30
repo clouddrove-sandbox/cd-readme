@@ -312,14 +312,10 @@ Our expertise spans a wide range of cutting-edge technologies and tools to deliv
 
 ### 📬 Get in Touch
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/494c81b3-5508-48ea-9a5b-5d43b5cab48c" height="100" alt="CloudDrove Logo"/>
-</p>
-
 <div align="center">
 
-| 📞 Phone | 🌐 Website | ✉️ Email | 📍 Address |
-|----------|------------|----------|------------|
-| +1 647-914-1389 | [clouddrove.com](https://clouddrove.com) | [hello@clouddrove.com](mailto:hello@clouddrove.com) | 18 King St E Suite 1400, Toronto, ON M5C 1C4, Canada |
+| 🌐 Website | ✉️ Email |
+|----------|------------|
+| [clouddrove.com](https://clouddrove.com) | [business@clouddrove.com](mailto:business@clouddrove.com) |
 
 </div>
