@@ -308,6 +308,37 @@ Our expertise spans a wide range of cutting-edge technologies and tools to deliv
 </div>
 
 ---
+
+### 👐 Open Source Contributions
+| Type | Highlight |
+|------|-----------|
+| **Terraform Modules** | [AWS](https://github.com/clouddrove?q=terraform-aws&type=all&language=&sort=), [GCP](https://github.com/clouddrove?q=terraform-gcp&type=all&language=&sort=), [DO](https://github.com/terraform-do-modules?q=terraform-digitalocean&type=all&language=&sort=), [AZURE](https://github.com/orgs/terraform-az-modules/repositories)|
+| **Helm Charts** | [helm-charts](https://github.com/clouddrove/helm-charts) |
+| **GitHub Actions** | [Shared workflows to standardise CI/CD](https://github.com/clouddrove/github-shared-workflows) |
+| Smurf | [Smurf](https://smurf.clouddrove.com/)
+
+---
+## 🏗️ Join Our Slack Community
+
+Join our vibrant open-source slack community and embark on an ever-evolving journey with CloudDrove; helping you in moving upwards in your career path.
+Join our vibrant Open Source Slack Community and embark on a learning journey with CloudDrove. Grow with us in the world of DevOps and set your career on a path of consistency.
+
+🌐💬What you'll get after joining this Slack community:
+
+- 🚀 Encouragement to upgrade your best version.
+- 🌈 Learning companionship with our DevOps squad.
+- 🌱 Relentless growth with daily updates on new advancements in technologies.
+
+Join our tech elites [Join Now](https://www.launchpass.com/devops-talks) 🚀
+
+---
+
+## 📚 Explore Our Blogs  
+[👉 Click here](https://blog.clouddrove.com/) to read our latest insights and updates.  
+
+---
+
+---
 ## 🤝 Ready to transform your cloud strategy?
 
 ### 📬 Get in Touch
